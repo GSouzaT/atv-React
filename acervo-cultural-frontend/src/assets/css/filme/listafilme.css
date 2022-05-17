@@ -1,0 +1,7 @@
+.listagem {
+    padding-bottom: 20px;
+}
+
+.listagem th, .listagem td {
+    border: 1px solid blue;
+}
